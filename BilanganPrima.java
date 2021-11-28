@@ -1,5 +1,3 @@
-// import java.util.Scanner;
-
 public class BilanganPrima {
     public static void main(String args[]) {
         int bil;
